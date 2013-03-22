@@ -9,8 +9,6 @@ public class Main {
 		
 		Memoria juego = new Memoria(600,600,"Memoria");
 		juego.setVisible(true);
-		juego.pack();
-
 	}
 
 }
